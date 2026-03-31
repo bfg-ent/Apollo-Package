@@ -1,0 +1,15 @@
+{
+  "name": "BFG.Apollo",
+  "displayName": "Apollo",
+  "version": "0.0.1",
+  "unity": "2021.2",
+  "description": "",
+  "keywords": [
+    "telemetry"
+  ],
+  "author": {
+    "name" : "BFGE",
+    "email" : "support@bfgentertainment.zendesk.com",
+    "url": "http://www.bigfishgames.com/"
+  }
+}
